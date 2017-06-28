@@ -42,7 +42,7 @@
 ## Step 7 : Multiple operations
 
 1. In an external file:
-2. Ask the user for his show size and his birth year
+2. Ask the user for his shoe size and his birth year
 3. Create a function that:
   1. Multiplies the shoe size by 2
   2. Adds 5
